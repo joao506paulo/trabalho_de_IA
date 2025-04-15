@@ -4,7 +4,7 @@
 Neuronios_Sensorial = 1    #alterar para cada problema
 Neuronios_Camada_Escondida = 2
 Neuronios_Saida = 1
-theta = 2
+theta = 0
 
 #função de ativação, pode (e deve ser mudada)
 #recebe y_in calculado pelo neuronio e devolve o resultado da função de ativação
